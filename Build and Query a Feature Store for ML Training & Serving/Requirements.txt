@@ -1,0 +1,11 @@
+
+Technical Requirements
+1
+feast, pandas
+
+Feature store management and ingestion
+
+2
+redis, parquet
+
+Online/offline data sources
